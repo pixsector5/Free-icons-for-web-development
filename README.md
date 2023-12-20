@@ -2,3 +2,7 @@
 Download hundreds of free icons on Pixsector for your projects. Pixsector icons are available for both personal and commercial use. Zip archives with icons include PNG and SVG formats.
 
 <img src="https://pixsector.com/uploads/pixsector-github.jpeg" alt="free SVG and PNG icons" />
+
+<h2> Free SVG icons </h2>
+
+Unlock creativity with our extensive collection of free SVG icons! Elevate your designs with a diverse array of scalable vector graphics, perfect for websites, apps, presentations, and more. Download now and add a touch of style to your projects, effortlessly. Join the design revolution - where stunning icons meet endless possibilities, all for free!
