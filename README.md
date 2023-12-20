@@ -12,4 +12,4 @@ Ignite your projects with our premium collection of icons, available for commerc
 
 <h2> Support us </h2>
 Support us in crafting free icons for all. Your contribution fuels our mission to make stunning visuals accessible to everyone. 
-<a href="https://www.buymeacoffee.com/vectorization">Donation Link </a>
+<a href="https://www.buymeacoffee.com/vectorization"> Donation </a>
