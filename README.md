@@ -9,3 +9,7 @@ Unlock creativity with our extensive collection of free SVG icons! Elevate your 
 
 <h2> Icons for commercial use </h2>
 Ignite your projects with our premium collection of icons, available for commercial use! Elevate your brand with professionally crafted SVG icons that seamlessly integrate into your websites, apps, and marketing materials. 
+
+<h2> Support us </h2>
+Support us in crafting free icons for all. Your contribution fuels our mission to make stunning visuals accessible to everyone. 
+<a href="https://www.buymeacoffee.com/vectorization">Donation Link </a>
